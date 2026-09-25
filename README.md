@@ -1,6 +1,6 @@
 # Efek Lirik Ketik & Animasi Love (Typewriter Effect)
 
-Proyek sederhana ini dibuat menggunakan murni HTML, CSS, dan Vanilla JavaScript. Proyek ini menampilkan lirik lagu per bait dengan efek seolah-olah sedang diketik (Typewriter Effect), lengkap dengan kursor yang berkedip. Saat lirik selesai, akan muncul animasi "Love Shower" di mana puluhan emoji hati (❤️) akan muncul dan berkelap-kelip secara acak di latar belakang.
+Proyek sederhana ini dibuat menggunakan murni HTML, CSS, dan Vanilla JavaScript. Proyek ini menampilkan lirik lagu per bait dengan efek seolah-olah sedang diketik (Typewriter Effect).
 
 ## 🌟 Fitur
 - Efek ketikan teks per huruf secara dinamis.
